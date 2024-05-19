@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="soebes.itf.jupiter.extension.assertj" type="repository">
+    <properties maven-id="com.soebes.itf.jupiter.extension:itf-assertj:0.12.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/soebes/itf/jupiter/extension/itf-assertj/0.12.0/itf-assertj-0.12.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/soebes/itf/jupiter/extension/itf-extension-maven/0.12.0/itf-extension-maven-0.12.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.23.1/assertj-core-3.23.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.12.10/byte-buddy-1.12.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
